@@ -3,7 +3,7 @@
     "questions":[
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/1.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/1.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -31,7 +31,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/2.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/2.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -57,7 +57,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/3.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/3.png",
             
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":55,
@@ -84,7 +84,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/4.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/4.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -110,7 +110,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/5.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/5.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -136,7 +136,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/6.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/6.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -162,7 +162,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/7.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/7.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -188,7 +188,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/8.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/8.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -214,7 +214,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/9.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/9.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -240,7 +240,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/10.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/10.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -266,7 +266,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/11.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/11.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -292,7 +292,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/12.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/12.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -318,7 +318,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/13.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/13.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -344,7 +344,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/14.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/14.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -370,7 +370,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/15.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/15.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -396,7 +396,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/16.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/16.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -422,7 +422,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/17.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/17.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -448,7 +448,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/18.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/18.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -474,7 +474,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/19.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/19.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":30,
             "options":[
@@ -500,7 +500,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/20.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/20.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -526,7 +526,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/21.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/21.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":30,
             "options":[
@@ -552,7 +552,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/22.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/22.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -578,7 +578,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/23.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/23.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -604,7 +604,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/24.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/24.png",
             "questionText":"Find the number of triangle in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -630,7 +630,7 @@
         },
         {
             "questionType":1,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/lineCount/25.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/25.png",
             "questionText":"Find the number of straight line in the given figure.",
             "responseTimeOut":55,
             "options":[
@@ -661,7 +661,7 @@
 
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/1.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/1.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -687,7 +687,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/2.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/2.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -713,7 +713,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/3.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/3.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -739,7 +739,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/4.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/4.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -765,7 +765,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/5.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/5.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -791,7 +791,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/6.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/6.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -817,7 +817,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/7.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/7.png",
             "questionText":"Find out the identical figure which contains figure  as its part",
             "responseTimeOut":40,
             "options":[
@@ -843,7 +843,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/8.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/8.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -869,7 +869,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/9.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/9.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -895,7 +895,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/10.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/10.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -921,7 +921,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/11.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/11.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -947,7 +947,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/12.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/12.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -973,7 +973,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/13.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/13.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -999,7 +999,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/14.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/14.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -1025,7 +1025,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/15.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/15.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -1051,7 +1051,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/16.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/16.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -1077,7 +1077,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/17.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/17.png",
             "questionText":"Find out the identical figure which contains figure  as its part",
             "responseTimeOut":40,
             "options":[
@@ -1103,7 +1103,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/18.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/18.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -1129,7 +1129,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/19.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/19.png",
             "questionText":"Find out the identical figure which contains figure as its part",
             "responseTimeOut":40,
             "options":[
@@ -1155,7 +1155,7 @@
         },
         {
             "questionType":2,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/similarFigure/20.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/20.png",
             "questionText":"Find out the identical figure which contains figure  as its part",
             "responseTimeOut":40,
             "options":[
@@ -1187,7 +1187,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/11.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/11.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1214,7 +1214,7 @@
         ,
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/12.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/12.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1242,7 +1242,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/13.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/13.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1270,7 +1270,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/15.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/15.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1298,7 +1298,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/16.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/16.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1326,7 +1326,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/17.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/17.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1354,7 +1354,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/18.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/18.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1382,7 +1382,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/19.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/19.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1410,7 +1410,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/20.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/20.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1438,7 +1438,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/21.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/21.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1466,7 +1466,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/22.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/22.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1494,7 +1494,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/23.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/23.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1522,7 +1522,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/24.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/24.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1550,7 +1550,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/25.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/25.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1579,7 +1579,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/27.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/27.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1607,7 +1607,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/28.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/28.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1635,7 +1635,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/29.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/29.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1663,7 +1663,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/30.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/30.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1691,7 +1691,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/31.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/31.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1719,7 +1719,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/32.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/32.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1747,7 +1747,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/33.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/33.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1775,7 +1775,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/34.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/34.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1803,7 +1803,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/35.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/35.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1831,7 +1831,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/36.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/36.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1859,7 +1859,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/45.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/45.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1887,7 +1887,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/46.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/46.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1915,7 +1915,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/47.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/47.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1943,7 +1943,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/48.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/48.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1971,7 +1971,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/49.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/49.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -1999,7 +1999,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/50.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/50.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2027,7 +2027,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/51.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/51.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2055,7 +2055,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/53.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/53.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2083,7 +2083,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/54.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/54.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2111,7 +2111,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/55.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/55.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2139,7 +2139,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/56.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/56.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2167,7 +2167,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/57.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/57.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2195,7 +2195,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/58.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/58.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2223,7 +2223,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/59.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/59.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2251,7 +2251,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/62.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/62.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2279,7 +2279,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/63.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/63.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2307,7 +2307,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/67.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/67.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2335,7 +2335,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/68.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/68.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2363,7 +2363,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/69.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/69.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2391,7 +2391,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/70.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/70.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2419,7 +2419,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/71.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/71.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2447,7 +2447,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/72.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/72.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2475,7 +2475,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/73.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/73.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2503,7 +2503,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/74.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/74.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2531,7 +2531,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/75.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/75.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2559,7 +2559,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/76.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/76.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2587,7 +2587,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/77.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/77.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2615,7 +2615,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/78.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/78.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2643,7 +2643,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/79.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/79.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2671,7 +2671,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/80.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/80.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2699,7 +2699,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/81.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/81.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2727,7 +2727,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/82.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/82.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2755,7 +2755,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/83.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/83.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2783,7 +2783,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/84.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/84.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2811,7 +2811,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/85.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/85.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2839,7 +2839,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/86.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/86.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2867,7 +2867,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/87.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/87.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2895,7 +2895,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/88.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/88.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2923,7 +2923,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/89.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/89.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2951,7 +2951,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/90.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/90.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -2979,7 +2979,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/91.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/91.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -3007,7 +3007,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/92.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/92.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -3035,7 +3035,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/93.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/93.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
@@ -3063,7 +3063,7 @@
 
         {
             "questionType":3,
-            "questionImgUrl":"https://github.com/asingh12203/brain_iq/blob/main/stagingwebgl/Question/completefigure/94.png",
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/94.png",
             "questionText":"Select a suitable figure from the options that would complete the figure.",
             "responseTimeOut":30,
             "options":[
