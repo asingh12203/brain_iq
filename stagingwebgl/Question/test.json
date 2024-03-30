@@ -1,0 +1,4033 @@
+{
+	"adsCoolDown":4,
+    "questions":[
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/1.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"12"
+                },
+                {
+                    "id":2,
+                    "optionText":"13"
+                },
+                {
+                    "id":3,
+                    "optionText":"14"
+                },
+                {
+                    "id":4,
+                    "optionText":"15"
+                }
+
+            ],
+            "correctOptionId":1,
+			
+			
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/2.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"15"
+                },
+                {
+                    "id":2,
+                    "optionText":"17"
+                },
+                {
+                    "id":3,
+                    "optionText":"10"
+                },
+                {
+                    "id":4,
+                    "optionText":"12"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/3.png",
+            
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"10"
+                },
+                {
+                    "id":2,
+                    "optionText":"12"
+                },
+                {
+                    "id":3,
+                    "optionText":"13"
+                },
+                {
+                    "id":4,
+                    "optionText":"17"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/4.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"16"
+                },
+                {
+                    "id":2,
+                    "optionText":"17"
+                },
+                {
+                    "id":3,
+                    "optionText":"18"
+                },
+                {
+                    "id":4,
+                    "optionText":"19"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/5.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"36"
+                },
+                {
+                    "id":2,
+                    "optionText":"55"
+                },
+                {
+                    "id":3,
+                    "optionText":"31"
+                },
+                {
+                    "id":4,
+                    "optionText":"28"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/6.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"5"
+                },
+                {
+                    "id":2,
+                    "optionText":"6"
+                },
+                {
+                    "id":3,
+                    "optionText":"8"
+                },
+                {
+                    "id":4,
+                    "optionText":"10"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/7.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"16"
+                },
+                {
+                    "id":2,
+                    "optionText":"13"
+                },
+                {
+                    "id":3,
+                    "optionText":"9"
+                },
+                {
+                    "id":4,
+                    "optionText":"7"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/8.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"22"
+                },
+                {
+                    "id":2,
+                    "optionText":"24"
+                },
+                {
+                    "id":3,
+                    "optionText":"26"
+                },
+                {
+                    "id":4,
+                    "optionText":"28"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/9.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"8"
+                },
+                {
+                    "id":2,
+                    "optionText":"10"
+                },
+                {
+                    "id":3,
+                    "optionText":"12"
+                },
+                {
+                    "id":4,
+                    "optionText":"7"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/10.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"10"
+                },
+                {
+                    "id":2,
+                    "optionText":"6"
+                },
+                {
+                    "id":3,
+                    "optionText":"8"
+                },
+                {
+                    "id":4,
+                    "optionText":"18"
+                }
+
+            ],
+            "correctOptionId":4
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/11.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"12"
+                },
+                {
+                    "id":2,
+                    "optionText":"15"
+                },
+                {
+                    "id":3,
+                    "optionText":"14"
+                },
+                {
+                    "id":4,
+                    "optionText":"8"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/12.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"31"
+                },
+                {
+                    "id":2,
+                    "optionText":"34"
+                },
+                {
+                    "id":3,
+                    "optionText":"30"
+                },
+                {
+                    "id":4,
+                    "optionText":"29"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/13.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"26"
+                },
+                {
+                    "id":2,
+                    "optionText":"22"
+                },
+                {
+                    "id":3,
+                    "optionText":"18"
+                },
+                {
+                    "id":4,
+                    "optionText":"12"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/14.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"24"
+                },
+                {
+                    "id":2,
+                    "optionText":"14"
+                },
+                {
+                    "id":3,
+                    "optionText":"28"
+                },
+                {
+                    "id":4,
+                    "optionText":"20"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/15.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"11"
+                },
+                {
+                    "id":2,
+                    "optionText":"13"
+                },
+                {
+                    "id":3,
+                    "optionText":"15"
+                },
+                {
+                    "id":4,
+                    "optionText":"17"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/16.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"20"
+                },
+                {
+                    "id":2,
+                    "optionText":"24"
+                },
+                {
+                    "id":3,
+                    "optionText":"28"
+                },
+                {
+                    "id":4,
+                    "optionText":"32"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/17.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"8"
+                },
+                {
+                    "id":2,
+                    "optionText":"9"
+                },
+                {
+                    "id":3,
+                    "optionText":"11"
+                },
+                {
+                    "id":4,
+                    "optionText":"12"
+                }
+
+            ],
+            "correctOptionId":4
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/18.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"4"
+                },
+                {
+                    "id":2,
+                    "optionText":"12"
+                },
+                {
+                    "id":3,
+                    "optionText":"16"
+                },
+                {
+                    "id":4,
+                    "optionText":"10"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/19.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/20.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"10"
+                },
+                {
+                    "id":2,
+                    "optionText":"11"
+                },
+                {
+                    "id":3,
+                    "optionText":"12"
+                },
+                {
+                    "id":4,
+                    "optionText":"13"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/21.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/22.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"28"
+                },
+                {
+                    "id":2,
+                    "optionText":"32"
+                },
+                {
+                    "id":3,
+                    "optionText":"36"
+                },
+                {
+                    "id":4,
+                    "optionText":"40"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/23.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"12"
+                },
+                {
+                    "id":2,
+                    "optionText":"13"
+                },
+                {
+                    "id":3,
+                    "optionText":"14"
+                },
+                {
+                    "id":4,
+                    "optionText":"15"
+                }
+
+            ],
+            "correctOptionId":4
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/24.png",
+            "questionText":"Find the number of triangle in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"13"
+                },
+                {
+                    "id":2,
+                    "optionText":"14"
+                },
+                {
+                    "id":3,
+                    "optionText":"17"
+                },
+                {
+                    "id":4,
+                    "optionText":"16"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":1,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/lineCount/25.png",
+            "questionText":"Find the number of straight line in the given figure.",
+            "responseTimeOut":55,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"35"
+                },
+                {
+                    "id":2,
+                    "optionText":"4"
+                },
+                {
+                    "id":3,
+                    "optionText":"18"
+                },
+                {
+                    "id":4,
+                    "optionText":"20"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+		
+		
+		
+		
+
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/1.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/2.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/3.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/4.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/5.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/6.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/7.png",
+            "questionText":"Find out the identical figure which contains figure  as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/8.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/9.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/10.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/11.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/12.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/13.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/14.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/15.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/16.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/17.png",
+            "questionText":"Find out the identical figure which contains figure  as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/18.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/19.png",
+            "questionText":"Find out the identical figure which contains figure as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+        {
+            "questionType":2,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/similarFigure/20.png",
+            "questionText":"Find out the identical figure which contains figure  as its part",
+            "responseTimeOut":40,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        },
+		
+		
+		
+		
+		
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/11.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/12.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/13.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/15.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/16.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/17.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/18.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/19.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/20.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/21.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/22.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/23.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/24.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/25.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+       
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/27.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/28.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/29.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/30.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/31.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/32.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/33.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/34.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/35.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/36.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/45.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/46.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/47.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/48.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/49.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/50.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/51.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/53.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/54.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/55.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/56.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/57.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/58.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/59.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/62.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/63.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/67.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/68.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/69.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/70.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/71.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/72.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/73.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/74.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/75.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/76.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/77.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/78.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/79.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/80.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/81.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":2
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/82.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/83.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/84.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/85.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/86.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/87.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":1
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/88.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/89.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/90.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/91.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/92.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":3
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/93.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        }
+        ,
+
+        {
+            "questionType":3,
+            "questionImgUrl":"http://localhost/stagingwebgl/Question/completefigure/94.png",
+            "questionText":"Select a suitable figure from the options that would complete the figure.",
+            "responseTimeOut":30,
+            "options":[
+                {
+                    "id":1,
+                    "optionText":"a"
+                },
+                {
+                    "id":2,
+                    "optionText":"b"
+                },
+                {
+                    "id":3,
+                    "optionText":"c"
+                },
+                {
+                    "id":4,
+                    "optionText":"d"
+                }
+
+            ],
+            "correctOptionId":4
+        },
+		
+		
+		
+		
+		
+		
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 2, 4, 8, 16, ?, ... What number should come next?",
+            "question": "2, 4, 8, 16, ?",
+            "options": [
+                
+                    {
+                        "id":1,
+                        "optionText":"24"
+                    },
+                    {
+                        "id":2,
+                        "optionText":"32"
+                    },
+                    {
+                        "id":3,
+                        "optionText": "64"
+                    },
+                    {
+                        "id":4,
+                        "optionText": "128"
+                    }
+            ],
+            "correct_answer": "32",
+            "correctOptionId":2,
+            "type": "Number Series",
+            "explanation": "The pattern is each number is doubled to get the next number. 16 x 2 = 32."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 3, 6, 12, 24, ?, ... What number should come next?",
+            "question": "3, 6, 12, 24, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"36"
+                },
+                {
+                    "id":2,
+                    "optionText":"48"
+                },
+                {
+                    "id":3,
+                    "optionText":"60"
+                },
+                {
+                    "id":4,
+                    "optionText":"72"
+                }
+            ],
+            "correct_answer": "48",
+            "correctOptionId":2,
+            "type": "Number Series",
+            "explanation": "Each number is multiplied by 2 to get the next number. 24 x 2 = 48."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: A, C, E, G, ?, ... What number should come next?",
+            "question": "A, C, E, G, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"I"
+                },
+                {
+                    "id":2,
+                    "optionText":"H"
+                },
+                {
+                    "id":3,
+                    "optionText":"J"
+                },
+                {
+                    "id":4,
+                    "optionText": "K"
+                }
+            ],
+            "correct_answer": "I",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. A + 2 = C, C + 2 = E, E + 2 = G, G + 2 = I."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 5, 10, 20, 40, ?, ... What number should come next?",
+            "question": "5, 10, 20, 40, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"80"
+                },
+                {
+                    "id":2,
+                    "optionText": "100"
+                },
+                {
+                    "id":3,
+                    "optionText":"120"
+                },
+                {
+                    "id":4,
+                    "optionText":"160"
+                }
+            ],
+            "correct_answer": "80",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number is multiplied by 2 to get the next number. 40 x 2 = 80."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: B, D, F, H, ?, ... What number should come next?",
+            "question": "B, D, F, H, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText": "I"
+                },
+                {
+                    "id":2,
+                    "optionText":"G"
+                },
+                {
+                    "id":3,
+                    "optionText":"J"
+                },
+                {
+                    "id":4,
+                    "optionText": "K"
+                }
+            ],
+            "correct_answer": "I",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. B + 2 = D, D + 2 = F, F + 2 = H, H + 2 = I."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 4, 9, 16, 25, ?, ... What number should come next?",
+            "question": "4, 9, 16, 25, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"36"
+                },
+                {
+                    "id":2,
+                    "optionText":"49"
+                },
+                {
+                    "id":3,
+                    "optionText":"64"
+                },
+                {
+                    "id":4,
+                    "optionText":"81"
+                }
+            ],
+            "correct_answer": "36",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number is the square of consecutive integers. 6^2 = 36."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: K, M, O, Q, ?, ... What number should come next?",
+            "question": "K, M, O, Q, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"S"
+                },
+                {
+                    "id":2,
+                    "optionText": "R"
+                },
+                {
+                    "id":3,
+                    "optionText": "T"
+                },
+                {
+                    "id":4,
+                    "optionText":"U"
+                }
+            ],
+            "correct_answer": "S",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. K + 2 = M, M + 2 = O, O + 2 = Q, Q + 2 = S."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 7, 14, 21, 28, ?, ... What number should come next?",
+            "question": "7, 14, 21, 28, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText": "35"
+                },
+                {
+                    "id":2,
+                    "optionText":"36"
+                },
+                {
+                    "id":3,
+                    "optionText":"42"
+                },
+                {
+                    "id":4,
+                    "optionText": "49"
+                }
+            ],
+            "correct_answer": "35",
+            "type": "Number Series",
+            "correctOptionId":1,
+            "explanation": "Each number increases by 7. 28 + 7 = 35."
+        },
+        {
+            "questionType": 4,
+            "question": "F, H, J, L, ?",
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: F, H, J, L, ?, ... What number should come next?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"M"
+                },
+                {
+                    "id":2,
+                    "optionText":"N"
+                },
+                {
+                    "id":3,
+                    "optionText":"O"
+                },
+                {
+                    "id":4,
+                    "optionText":"P"
+                }
+            ],
+            "correct_answer": "N",
+            "correctOptionId":2,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. F + 2 = H, H + 2 = J, J + 2 = L, L + 2 = N."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "question": "10, 20, 30, 40, ?",
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 10, 20, 30, 40, ?, ... What number should come next?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"45"
+                },
+                {
+                    "id":2,
+                    "optionText":"50"
+                },
+                {
+                    "id":3,
+                    "optionText":"55"
+                },
+                {
+                    "id":4,
+                    "optionText":"60"
+                }
+            ],
+            "correct_answer": "50",
+            "correctOptionId":2,
+            "type": "Number Series",
+            "explanation": "Each number increases by 10. 40 + 10 = 50."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "question": "1, 4, 9, 16, ?",
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 1, 4, 9, 16, ?, ... What number should come next?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"25"
+                },
+                {
+                    "id":2,
+                    "optionText":"36"
+                },
+                {
+                    "id":3,
+                    "optionText":"49"
+                },
+                {
+                    "id":4,
+                    "optionText":"64"
+                }
+            ],
+            "correct_answer": "25",
+            "correctOptionId":1,
+            "type": "Number Series",
+            
+            "explanation": "Each number represents a perfect square. 5^2 = 25."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: D, F, H, J, ?, ... What number should come next?",
+            "question": "D, F, H, J, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"K"
+                },
+                {
+                    "id":2,
+                    "optionText":"L"
+                },
+                {
+                    "id":3,
+                    "optionText": "M"
+                },
+                {
+                    "id":4,
+                    "optionText":"N"
+                }
+            ],
+            "correct_answer": "K",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. D + 2 = F, F + 2 = H, H + 2 = J, J + 2 = K."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "question": "12, 15, 18, 21, ?",
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 12, 15, 18, 21, ?, ... What number should come next?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"23"
+                },
+                {
+                    "id":2,
+                    "optionText":"24"
+                },
+                {
+                    "id":3,
+                    "optionText":"25"
+                },
+                {
+                    "id":4,
+                    "optionText":"26"
+                }
+            ],
+            "correct_answer": "24",
+            "correctOptionId":2,
+            "type": "Number Series",
+            "explanation": "Each number increases by 3. 21 + 3 = 24."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "question": "Z, X, V, T, ?",
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: Z, X, V, T, ?, ... What number should come next?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"P"
+                },
+                {
+                    "id":2,
+                    "optionText": "R"
+                },
+                {
+                    "id":3,
+                    "optionText":"S"
+                },
+                {
+                    "id":4,
+                    "optionText": "U"
+                }
+            ],
+            "correct_answer": "R",
+            "correctOptionId":2,
+            "type": "Letter Series",
+            "explanation": "The pattern is decreasing alphabets. Z - 2 = X, X - 2 = V, V - 2 = T, T - 2 = R."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: E, G, I, K, ?, ... What number should come next?",
+            "question": "E, G, I, K, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"M"
+                },
+                {
+                    "id":2,
+                    "optionText":"N"
+                },
+                {
+                    "id":3,
+                    "optionText": "O"
+                },
+                {
+                    "id":4,
+                    "optionText":"P"
+                }
+            ],
+            "correct_answer": "M",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. E + 2 = G, G + 2 = I, I + 2 = K, K + 2 = M."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 17, 21, 25, 29, ?, ... What number should come next?",
+            "question": "17, 21, 25, 29, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText": "33"
+                },
+                {
+                    "id":2,
+                    "optionText": "34"
+                },
+                {
+                    "id":3,
+                    "optionText": "35"
+                },
+                {
+                    "id":4,
+                    "optionText":"36"
+                }
+            ],
+            "correct_answer": "33",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number increases by 4. 29 + 4 = 33."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: Y, W, U, S, ?, ... What number should come next?",
+            "question": "Y, W, U, S, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"O"
+                },
+                {
+                    "id":2,
+                    "optionText":"P"
+                },
+                {
+                    "id":3,
+                    "optionText":"Q"
+                },
+                {
+                    "id":4,
+                    "optionText":"R"
+                }
+            ],
+            "correct_answer": "Q",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is decreasing alphabets. Y - 2 = W, W - 2 = U, U - 2 = S, S - 2 = Q."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 22, 25, 28, 31, ?, ... What number should come next?",
+            "question": "22, 25, 28, 31, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"34"
+                },
+                {
+                    "id":2,
+                    "optionText":"35"
+                },
+                {
+                    "id":3,
+                    "optionText": "36"
+                },
+                {
+                    "id":4,
+                    "optionText": "37"
+                }
+            ],
+            "correct_answer": "34",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number increases by 3. 31 + 3 = 34."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: L, N, P, R, ?, ... What number should come next?",
+            "question": "L, N, P, R, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText": "S"
+                },
+                {
+                    "id":2,
+                    "optionText":"T"
+                },
+                {
+                    "id":3,
+                    "optionText":"U"
+                },
+                {
+                    "id":4,
+                    "optionText":"V"
+                }
+            ],
+            "correct_answer": "S",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. L + 2 = N, N + 2 = P, P + 2 = R, R + 2 = S."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 8, 16, 32, 64, ?, ... What number should come next?",
+            "question": "8, 16, 32, 64, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"96"
+                },
+                {
+                    "id":2,
+                    "optionText":"128"
+                },
+                {
+                    "id":3,
+                    "optionText":"256"
+                },
+                {
+                    "id":4,
+                    "optionText":"512"
+                }
+            ],
+            "correct_answer": "128",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number is multiplied by 2. 64 x 2 = 128."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: A, D, G, J, ?, ... What number should come next?",
+            "question": "A, D, G, J, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"M"
+                },
+                {
+                    "id":2,
+                    "optionText":"N"
+                },
+                {
+                    "id":3,
+                    "optionText":"O"
+                },
+                {
+                    "id":4,
+                    "optionText":"P"
+                }
+            ],
+            "correct_answer": "M",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. A + 3 = D, D + 3 = G, G + 3 = J, J + 3 = M."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 11, 13, 16, 20, ?, ... What number should come next?",
+            "question": "11, 13, 16, 20, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"22"
+                },
+                {
+                    "id":2,
+                    "optionText":"24"
+                },
+                {
+                    "id":3,
+                    "optionText":"26"
+                },
+                {
+                    "id":4,
+                    "optionText":"28"
+                }
+            ],
+            "correct_answer": "22",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number increases by 2, 3, and 4 alternately. 20 + 2 = 22."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: R, T, V, X, ?, ... What number should come next?",
+            "question": "R, T, V, X, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"Z"
+                },
+                {
+                    "id":2,
+                    "optionText":"B"
+                },
+                {
+                    "id":3,
+                    "optionText":"D"
+                },
+                {
+                    "id":4,
+                    "optionText":"F"
+                }
+            ],
+            "correct_answer": "Z",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. R + 2 = T, T + 2 = V, V + 2 = X, X + 2 = Z."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 9, 18, 27, 36, ?, ... What number should come next?",
+            "question": "9, 18, 27, 36, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"45"
+                },
+                {
+                    "id":2,
+                    "optionText":"54"
+                },
+                {
+                    "id":3,
+                    "optionText":"63"
+                },
+                {
+                    "id":4,
+                    "optionText":"72"
+                }
+            ],
+            "correct_answer": "45",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number increases by 9. 36 + 9 = 45."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 15, 30, 45, 60, ?, ... What number should come next?",
+            "question": "15, 30, 45, 60, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"75"
+                },
+                {
+                    "id":2,
+                    "optionText":"80"
+                },
+                {
+                    "id":3,
+                    "optionText":"85"
+                },
+                {
+                    "id":4,
+                    "optionText": "90"
+                }
+                
+            ],
+            "correct_answer": "75",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number increases by 15. 60 + 15 = 75."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: C, F, I, L, ?, ... What number should come next?",
+            "question": "C, F, I, L, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"O"
+                },
+                {
+                    "id":2,
+                    "optionText":"P"
+                },
+                {
+                    "id":3,
+                    "optionText":"Q"
+                },
+                {
+                    "id":4,
+                    "optionText":"R"
+                }
+                
+            ],
+            "correct_answer": "O",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. C + 3 = F, F + 3 = I, I + 3 = L, L + 3 = O."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 14, 18, 24, 32, ?, ... What number should come next?",
+            "question": "14, 18, 24, 32, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"36"
+                },
+                {
+                    "id":2,
+                    "optionText":"40"
+                },
+                {
+                    "id":3,
+                    "optionText":"44"
+                },
+                {
+                    "id":4,
+                    "optionText":"48"
+                }
+            ],
+            "correct_answer": "40",
+            "correctOptionId":2,
+            "type": "Number Series",
+            "explanation": "Each number increases by 4, 6, and 8 alternately. 32 + 8 = 40."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: P, R, T, V, ?, ... What number should come next?",
+            "question": "P, R, T, V, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"X"
+                },
+                {
+                    "id":2,
+                    "optionText":"Y"
+                },
+                {
+                    "id":3,
+                    "optionText":"Z"
+                },
+                {
+                    "id":4,
+                    "optionText":"AA"
+                }
+               
+            ],
+            "correct_answer": "X",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. P + 2 = R, R + 2 = T, T + 2 = V, V + 2 = X."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 21, 25, 29, 33, ?, ... What number should come next?",
+            "question": "21, 25, 29, 33, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"35"
+                },
+                {
+                    "id":2,
+                    "optionText":"36"
+                },
+                {
+                    "id":3,
+                    "optionText":"37"
+                },
+                {
+                    "id":4,
+                    "optionText":"38"
+                }
+               
+            ],
+            "correct_answer": "35",
+            "correctOptionId":1,
+            "type": "Number Series",
+            "explanation": "Each number increases by 4. 33 + 2 = 35."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: G, K, O, S, ?, ... What number should come next?",
+            "question": "G, K, O, S, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText": "U"
+                },
+                {
+                    "id":2,
+                    "optionText":"V"
+                },
+                {
+                    "id":3,
+                    "optionText":"W"
+                },
+                {
+                    "id":4,
+                    "optionText": "X"
+                }
+            ],
+            "correct_answer": "U",
+            "correctOptionId":1,
+            "type": "Letter Series",
+            "explanation": "The pattern is increasing alphabets. G + 4 = K, K + 4 = O, O + 4 = S, S + 4 = U."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: 13, 16, 19, 22, ?, ... What number should come next?",
+            "question": "13, 16, 19, 22, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"25"
+                },
+                {
+                    "id":2,
+                    "optionText":"26"
+                },
+                {
+                    "id":3,
+                    "optionText": "27"
+                },
+                {
+                    "id":4,
+                    "optionText":"28"
+                }
+            ],
+            "correct_answer": "25",
+            "type": "Number Series",
+            "correctOptionId":1,
+            "explanation": "Each number increases by 3. 22 + 3 = 25."
+        },
+        {
+            "questionType": 4,
+            "responseTimeOut":30,
+            "questionImgUrl":"NA",
+            "questionText": "Look at this series: Y, Z, AA, AB, ?, ... What number should come next?",
+            "question": "Y, Z, AA, AB, ?",
+            "options": [
+                {
+                    "id":1,
+                    "optionText":"AC"
+                },
+                {
+                    "id":2,
+                    "optionText":"AD"
+                },
+                {
+                    "id":3,
+                    "optionText":"AE"
+                },
+                {
+                    "id":4,
+                    "optionText":"AF"
+                }
+               
+            ],
+            "correct_answer": "AC",
+            "type": "Letter Series",
+            "correctOptionId":1,
+            "explanation": "The pattern is increasing alphabets. Y + 1 = Z, Z + 1 = AA, AA + 1 = AB, AB + 1 = AC."
+        }
+
+    ]
+}
